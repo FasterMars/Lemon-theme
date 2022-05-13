@@ -1,0 +1,35 @@
+{
+    "name": "lemon-theme",
+    "displayName": "Lemon Theme",
+    "description": "A neon yellow theme for Visual Studio Code",
+    "version": "1.0.0",
+    "publisher": "FasterMars",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "keywords": [
+        "themes",
+        "theme",
+        "VSCode themes",
+        "Lemon",
+        "lemon theme",
+        "Lemon theme",
+        "Color theme",
+        "light themes",
+        "neon themes",
+        "neon theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lemon Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Lemon Theme-color-theme.json"
+            }
+        ]
+    }
+}
